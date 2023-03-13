@@ -1,6 +1,2 @@
-cd
-mkdir
+cat
 touch
-mv
-rm
-ls
